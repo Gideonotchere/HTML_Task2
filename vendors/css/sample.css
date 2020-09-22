@@ -15,7 +15,7 @@ body {
 /* ここから */
 header {
   background-color: #000000;
-  height: 30px;
+  height: 70px;
   font-size: 1.5rem;
 }
 header ul {
@@ -73,9 +73,10 @@ header ul:after {
 /* ここまでがfunction部分の実装 */
 footer{
 width: 100%;
-height: 10px;
+height: 100px;
 bottom: 0;
-background-color: #4D4D4D;
+margin-top: -20px;
+background-color: #283b4b;
 display: table;
 }
 footer p {
