@@ -13,7 +13,7 @@ body {
   background-attachment: fixed;
   padding: 10%;
   padding-left: 10px;
-}
+  }
 /* ここから */
 header {
   background-color: #333240;
@@ -23,6 +23,7 @@ header {
 header ul {
     width: auto;
     list-style-type: none;
+    margin: 0px;
   }
 header ul a {
   width: 120px;
