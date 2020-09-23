@@ -22,6 +22,7 @@ header {
 }
 header ul {
     width: auto;
+    list-style-type: none;
   }
 header ul a {
   width: 120px;
